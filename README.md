@@ -1,7 +1,7 @@
 # Week-2-ERC-training
 # 🛠️ Embedded Systems & Microcontroller Learner Roadmap
 
-Welcome to my personal learning roadmap for mastering **Embedded Systems**, **Microcontrollers**, and key **Communication Protocols**. This README is a curated list of high-quality resources (videos, articles, tutorials) that I’ve studied and recommend for beginners or anyone looking to build a solid foundation.
+
 
 ---
 
