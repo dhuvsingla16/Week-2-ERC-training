@@ -1,5 +1,5 @@
 # Week-2-ERC-training
-# 🛠️ Embedded Systems & Microcontroller Learner Roadmap
+# 🛠️ Embedded Systems & Microcontroller Roadmap
 
 
 
